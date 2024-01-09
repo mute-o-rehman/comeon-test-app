@@ -4,6 +4,14 @@
 
 This project is a casino website built with React and Redux. It includes features such as user authentication, game selection, and category filtering. The project structure follows a modular approach to enhance maintainability and scalability.
 
+- The Desktop Screen is look like this
+
+  https://github.com/mute-o-rehman/comeon-test-app/blob/master/public/images/screenshots/desktop-lobby-view.png
+
+- The Mobile device View is look like this
+
+  https://github.com/mute-o-rehman/comeon-test-app/blob/master/public/images/screenshots/mobile-view.png?raw=true
+
 ## Table of Contents
 
 - [Installation](#installation)
@@ -33,6 +41,7 @@ This project is a casino website built with React and Redux. It includes feature
    Visit http://localhost:3000 in your web browser to view the application
 
 2. strat mock data API use json.server by run following command:
+
    json-server --watch mock/mock-data.json --port 3001 --middlewares mock/mock-api.js
 
 ## Folder Structure
